@@ -45,10 +45,11 @@ Ultimately, this project promotes inclusive design by aligning with modern web a
 
 ## GitHub Deployment Location (HTTPS)
 
+https://kanfachan.github.io/Checkout-Page/
 
 ## GitHub Repository Location (HTTPS)
 
-
+https://github.com/Kanfachan/Checkout-Page
 
 ## Credits
 
